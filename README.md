@@ -1,7 +1,7 @@
 # **Muhammad Muteeb Ramzan**
 ### **Full Stack Developer | AI Integration Specialist | Founder of Code Nexus | Pakistan**
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 I am a Full Stack Developer and CEO of Code Nexus, specializing in modern Web Apps, Mobile Apps, and AI-powered products.  
 With more than **75+ completed projects**, I work across full-stack development, backend systems, UI/UX, and AI API integrations.
